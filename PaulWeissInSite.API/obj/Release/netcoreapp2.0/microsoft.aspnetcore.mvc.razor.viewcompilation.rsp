@@ -1,0 +1,5 @@
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=PaulWeissInSite.API
+--content-root=C:\Code\PaulWeissInSite.API\PaulWeissInSite.API
+--file=

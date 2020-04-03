@@ -1,0 +1,14 @@
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\PaulWeissInSite.API.deps.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\PaulWeissInSite.API.runtimeconfig.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\PaulWeissInSite.API.runtimeconfig.dev.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\PaulWeissInSite.API.dll
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\obj\Debug\netcoreapp2.0\PaulWeissInSite.API.AssemblyInfoInputs.cache
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\obj\Debug\netcoreapp2.0\PaulWeissInSite.API.AssemblyInfo.cs
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\PaulWeissInSite.API.pdb
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\obj\Debug\netcoreapp2.0\PaulWeissInSite.API.dll
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\obj\Debug\netcoreapp2.0\PaulWeissInSite.API.pdb
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\nlog.config
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\AppSettings.Development.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\AppSettings.Production.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Code\PaulWeissInSite.API\PaulWeissInSite.API\obj\Debug\netcoreapp2.0\PaulWeissInSite.API.csprojAssemblyReference.cache
